@@ -35,3 +35,23 @@ limitations under the License.
 [ab4_tabata.jpg](https://www.pexels.com/photo/fashion-man-people-art-4662438/) - Elly Fairytale
 [ab5_hiit.jpg](https://www.pexels.com/photo/man-wearing-white-pants-under-blue-sky-999309/) - The Lazy Artist Gallery
 [ab6_pre_natal_yoga.jpg](https://www.pexels.com/photo/woman-doing-yoga-396133/) - freestocks.org
+
+
+## Description:
+Esta aplicación está diseñada para un negocio de arepas, llamado, "Arepas la Piti". Esta app, nos proporciona la variedad de artículos que se pueden comprar en el establecimiento, además se muestra por sus categorías.
+
+
+## Additional Images:
+Going to the app
+![1](https://github.com/Dan-ala/BasicLayoutCodelab_App/assets/125916495/4fbfcb9a-5512-43ac-a1b8-f232c26fe3ab)
+
+### Portrait Mode:
+![2](https://github.com/Dan-ala/BasicLayoutCodelab_App/assets/125916495/ee1ecd7e-2677-4492-9bb0-dc9694a49906)
+
+### Landscape Mode (part-1):
+![3](https://github.com/Dan-ala/BasicLayoutCodelab_App/assets/125916495/db3e0cf0-8fe5-48cd-96f8-cb5586258ccb)
+
+### Landscape Mode (part-2):
+![44](https://github.com/Dan-ala/BasicLayoutCodelab_App/assets/125916495/5c730513-75f1-4427-b8fe-870ad2d6a7fa)
+
+
