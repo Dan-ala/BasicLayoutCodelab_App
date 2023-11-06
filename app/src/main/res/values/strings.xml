@@ -1,0 +1,80 @@
+<!--
+  Copyright 2022 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
+  in compliance with the License. You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software distributed under the License
+  is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+  or implied. See the License for the specific language governing permissions and limitations under
+  the License.
+  -->
+<resources>
+    <string name="app_name">Arepas la Piti</string>
+    <string name="favorite_collections">Arepas Y Variedades</string>
+    <string name="align_your_body">Arepas la Piti</string>
+
+    <string name="sencilla">$1.000</string>
+    <string name="sencilla_title">Sencilla</string>
+
+    <string name="con_queso">$2.500</string>
+    <string name="con_queso_title">Con Queso</string>
+
+    <string name="con_chorizo">$4.500</string>
+    <string name="con_chorizo_title">Con Chorizo</string>
+
+    <string name="jamon_queso">$4.000</string>
+    <string name="jamon_queso_title">Jamón-Queso</string>
+
+    <string name="huevos_pericos">$4.500</string>
+    <string name="huevos_pericos_title">Huevos Pericos</string>
+
+    <string name="mixta_sencilla">$6.000</string>
+    <string name="mixta_sencilla_title">Mixta Sencilla</string>
+    
+    <string name="mixta_especial">$6.000</string>
+    <string name="mixta_especial_title">Mixta Especial</string>
+    
+    <string name="mixta_casa">$7.000</string>
+    <string name="mixta_casa_title">Mixta-Casa</string>
+    
+    <string name="super_arepa">$9.500</string>
+    <string name="super_arepa_title">Super Arepa</string>
+    
+    <string name="choriperro_esp">$8.000</string>
+    <string name="choriperro_esp_title">Choriperro-Esp</string>
+    
+    <string name="mexicana">$12.000</string>
+    <string name="mexicana_title">Mexicana</string>
+    
+    <string name="hot_dog">$6.000</string>
+    <string name="hot_dog_title">Hot Dog</string>
+
+    <string name="choriperro_sen">$5.000</string>
+    <string name="choriperro_sen_title">Choriperro-Sen</string>
+    
+    <string name="pincho">$5.000</string>
+    <string name="pincho_title">Pincho</string>
+
+    <string name="tinto">$1.000</string>
+    <string name="tinto_title">Tinto</string>
+    
+    <string name="coke">$2.500</string>
+    <string name="coke_title">Coke</string>
+
+    <string name="arepas_category">Arepas</string>
+    <string name="variedades_category">Variedades</string>
+
+    <string name="bebidas_category">Bebidas</string>
+    <string name="hot_dog_category">Hot Dogs</string>
+
+    <string name="mexican_category">Mexicana</string>
+    <string name="pinchos_category">Pinchos</string>
+
+    <string name="cd_fab_start">start</string>
+    <string name="bottom_navigation_home">Home</string>
+    <string name="bottom_navigation_profile">Profile</string>
+    <string name="placeholder_search">Search</string>
+</resources>
